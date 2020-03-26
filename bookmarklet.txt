@@ -1,0 +1,1 @@
+javascript:setInterval(function(){ document.querySelector("form[name='Pass']").click(); },5000+Math.random()*10000);
